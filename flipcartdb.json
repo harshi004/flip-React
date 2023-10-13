@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "productId": "123",
+      "title": "IPhone 13",
+      "brand": "Apple",
+      "price": "45000",
+      "description": "Zingg Zingg  Amazingg",
+      "thumbnail": "https://m.media-amazon.com/images/I/61l9ppRIiqL._AC_UF1000,1000_QL80_.jpg",
+      "id": 1
+    },
+    {
+      "productId": "23",
+      "title": "Realme 11 5G",
+      "brand": "REALME",
+      "price": "17000",
+      "description": "Really its Realme...",
+      "thumbnail": "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/n/o/r/-original-imagtqqdkzfspfmu.jpeg?q=70",
+      "id": 2
+    },
+    {
+      "productId": "34",
+      "title": "OPPO Reno10 Pro+ 5G",
+      "brand": "OPPO",
+      "price": "54,999/-",
+      "description": "Ohh.........! It's OPPO",
+      "thumbnail": "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/7/h/s/-original-imagtcrvzwjay4zd.jpeg?q=70",
+      "id": 3
+    },
+    {
+      "productId": "003",
+      "title": "Anarkali Gown",
+      "brand": "KUSHARSI",
+      "price": "999/-",
+      "description": "Printed Georgette Stitched Anarkali Gown ",
+      "thumbnail": "https://rukminim2.flixcart.com/image/832/832/xif0q/gown/d/f/0/na-6xl-half-sleeve-stitched-georgette-gown-kuhufashions-na-original-imaghq98yxufcfx8.jpeg?q=70",
+      "id": 4
+    },
+    {
+      "productId": "004",
+      "title": "Georgette Anarkali Gown",
+      "brand": "KUSHARSI",
+      "price": "1099/-",
+      "description": "Printed Georgette Stitched Anarkali Gown (White)",
+      "thumbnail": "https://rukminim2.flixcart.com/image/832/832/xif0q/gown/d/i/w/na-xxl-full-sleeve-stitched-digital28-kedar-fab-na-original-imagqzd4rtyyjfqh.jpeg?q=70",
+      "id": 5
+    },
+    {
+      "productId": "001",
+      "title": "DANIEL WELLINGTON  Petite 28mm Analog Watch (Women)",
+      "brand": "DANIEL WELLINGTON ",
+      "price": "10,750/-",
+      "description": "This is a genuine Daniel Wellington product.",
+      "thumbnail": "https://rukminim2.flixcart.com/image/832/832/xif0q/watch/4/p/3/-original-imagszc5pnyq6a6m.jpeg?q=70",
+      "id": 6
+    },
+    {
+      "productId": "002",
+      "title": "Jacqueline Analog Watch (Women)",
+      "brand": "FOSSIL",
+      "price": "12,450/-",
+      "description": "This is a genuine Fossil product. The product comes with a standard brand warranty of 2 Years.",
+      "thumbnail": "https://rukminim2.flixcart.com/image/832/832/xif0q/watch/g/x/r/-original-imagszc5mcrqewgk.jpeg?q=70",
+      "id": 7
+    },
+    {
+      "productId": "1001",
+      "title": "FitBit Versa 2 Smartwatch ",
+      "brand": "FITBIT",
+      "price": "11,299/-",
+      "description": "SmartWatch from FITBIT ",
+      "thumbnail": "https://rukminim2.flixcart.com/image/832/832/kapoo7k0/smartwatch/m/q/4/fb507rgpk-android-ios-fitbit-original-imafs7uvkggybbfu.jpeg?q=70",
+      "id": 8
+    }
+  ]
+}
